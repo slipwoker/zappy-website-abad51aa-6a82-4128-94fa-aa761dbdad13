@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מרכז הוליסטי לדטוקס וירידה במשקל עם טיפולים מתקדמים, עיסויי דטוקס וחידוש אנרגיה. wellness clinic near me – הפתרון הטבעי שחיפשת לגוף ולנפש.
+
+### טיפולים
+https://example.com/treatments
+היידרוקולוניק, עיסוי דטוקס וטיפולי חידוש אנרגיה – כל טיפול מותאם אישית לניקוי עמוק ולחיזוק הגוף. גלה את מגוון הטיפולים שלנו ובחר את המסלול שמתאים לך.
+
+### אודות
+https://example.com/about
+wellness clinic נוסד מתוך אמונה עמוקה בכוח הריפוי של הטבע. הכירו את הצוות המקצועי שלנו, הפילוסופיה ההוליסטית ואת המחויבות שלנו לבריאות אמיתית ומתמשכת.
+
+### צור קשר
+https://example.com/contact
+מחפש wellness clinic near me? אנחנו כאן בשבילך. צור קשר עכשיו לקביעת תור, ייעוץ אישי או שאלות על תוספי התזונה וטיפולי הדטוקס שלנו. הצעד הראשון לשינוי מתחיל כאן.
+
+### Products
+https://example.com/products
+המוצרים שלנו - wellness clinic
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - wellness clinic
+
+### Category
+https://example.com/category/:slug
+מוצרים - wellness clinic
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
